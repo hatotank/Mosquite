@@ -4,8 +4,7 @@ Beep関数による簡易年齢チェックアプリ
 
 ## 概要
 
-Beep関数による簡易年齢チェックができます。  
-プログラミング練習過程の産物。
+Beep関数による簡易年齢チェックができます。プログラミング練習過程の産物。
 
 ## ビルドについて
 
@@ -13,7 +12,7 @@ Beep関数による簡易年齢チェックができます。
 
 ## イメージ
 
-![Mosquite001](https://github.com/hatotank/Mosquite/blob/media/Mosquite001.png)
+![Mosquite001](https://github.com/hatotank/Mosquite/blob/media/mosquite001.png)
 
 ## 使い方
 
